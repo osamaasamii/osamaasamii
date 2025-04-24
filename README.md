@@ -66,7 +66,7 @@ currently_learning: ["DataBase , .Net , API"]
 hobbies: [" Video Games","Football", "Cinema",  "Art", "Comedy"]
 
   
----  
+``` 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -86,7 +86,6 @@ hobbies: [" Video Games","Football", "Cinema",  "Art", "Comedy"]
 </p>
 
 ---
-
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
 ![osamaasamii's Stats](https://github-readme-stats.vercel.app/api?username=osamaasamii&theme=prussian&show_icons=true&hide_border=true&count_private=true)       ![osamaasamii's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaasamii&theme=prussian&show_icons=true&hide_border=true&layout=compact)
